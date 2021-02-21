@@ -1,0 +1,59 @@
+I"<h1 class="fs-9" id="asktraining">#ASKtraining</h1>
+
+<p class="fs-6 fw-300">The ASKtraining gives you the possibility to create your indvidual training plan.</p>
+
+<p><a href="#getting-started" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Get started now</a> <a href="" class="btn fs-5 mb-4 mb-md-0">View it on GitHub</a> <a href="/issues/new" class="btn fs-5 mb-4 mb-md-0">Create Issue</a></p>
+
+<hr />
+
+<h2 id="introduction">Introduction</h2>
+
+<p>This guide is meant to introduce you to Github as easily as possible. By the way, this guide is also based on a Github repository ;)</p>
+
+<h3 id="contributors">Contributors</h3>
+<p>If you don’t find what you’re looking for, feel free to <a href="/issues/new">create an issue</a> and we’ll expand the guide.</p>
+
+<h3 id="developer">Developer</h3>
+<p>If you would like to help extending the guide, feel free to fork <a href="">the repository</a> and send us a pull request.</p>
+
+<h2 id="getting-started">Getting started</h2>
+
+<p>This guide is divided into four main parts:</p>
+<ul>
+  <li><a href="pages/github-account">Account</a></li>
+  <li><a href="pages/github-repo">Repository</a></li>
+  <li><a href="pages/github-issues">Issues</a></li>
+  <li><a href="pages/github-markdown">Markdown</a></li>
+</ul>
+
+<h2 id="partners-and-founders">Partners and Founders</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">r0g Agency</th>
+      <th style="text-align: center">ASKnet</th>
+      <th style="text-align: center">nanoLogika</th>
+      <th style="text-align: center">BMZ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="https://openculture.agency/"><img src="/docs/assets/images/partner-r0g-logo.png" alt="r0g Logo" /></a></td>
+      <td style="text-align: center"><a href="https://github.com/ASKnet-Open-Training"><img src="/docs/assets/images/partner-asknet-logo.jpg" alt="#ASKnet Logo" /></a></td>
+      <td style="text-align: center"><a href="https://www.nanologika.de"><img src="/docs/assets/images/partner-nanologika-logo.png" alt="nanoLogika Logo" /></a></td>
+      <td style="text-align: center"><a href="https://www.bmz.de/en/"><img src="/docs/assets/images/founder_BMZ.jpg" alt="BMZ Logo" /></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="https://openculture.agency/">Official Website</a></td>
+      <td style="text-align: center"><a href="https://github.com/ASKnet-Open-Training">Official Website</a></td>
+      <td style="text-align: center"><a href="https://www.nanologika.de">Official Website</a></td>
+      <td style="text-align: center"><a href="https://www.bmz.de/en/">Official Website</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="license">License</h2>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><images alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></images></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+:ET

@@ -1,0 +1,50 @@
+{"0": {
+    "doc": "ASKtraining",
+    "title": "ASKtraining",
+    "content": "# #ASKtraining ",
+    "url": "http://0.0.0.0:4000/docs/pages/asktraining",
+    "relUrl": "/pages/asktraining"
+  },"1": {
+    "doc": "Create a Resource",
+    "title": "Create a Resource",
+    "content": "## Create a Resource for a module ",
+    "url": "http://0.0.0.0:4000/docs/pages/resources/create/",
+    "relUrl": "/pages/resources/create/"
+  },"2": {
+    "doc": "Create a Module",
+    "title": "Create a Module",
+    "content": "## Create a Module for the training plan ",
+    "url": "http://0.0.0.0:4000/docs/pages/modules/create/",
+    "relUrl": "/pages/modules/create/"
+  },"3": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# #ASKtraining {: .fs-9 } The ASKtraining gives you the possibility to create your indvidual training plan. {: .fs-6 .fw-300 } [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub]({{ site.github.repository_url }}){: .btn .fs-5 .mb-4 .mb-md-0 } [Create Issue]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## Introduction This guide is meant to introduce you to Github as easily as possible. By the way, this guide is also based on a Github repository ;) ### Contributors If you don't find what you're looking for, feel free to [create an issue]({{ site.github.repository_url }}/issues/new) and we'll expand the guide. ### Developer If you would like to help extending the guide, feel free to fork [the repository]({{ site.github.repository_url }}) and send us a pull request. ## Getting started This guide is divided into four main parts: - [Account](pages/github-account) - [Repository](pages/github-repo) - [Issues](pages/github-issues) - [Markdown](pages/github-markdown) ## Partners and Founders | r0g Agency | ASKnet | nanoLogika | BMZ | :--------: | :----: | :-------------------------: | :-------: |[![r0g Logo]({{ 'assets/images/partner-r0g-logo.png' | relative_url }})](https://openculture.agency/) | [![#ASKnet Logo]({{ 'assets/images/partner-asknet-logo.jpg' | relative_url }})](https://github.com/ASKnet-Open-Training)| [![nanoLogika Logo]({{ 'assets/images/partner-nanologika-logo.png' | relative_url }})](https://www.nanologika.de) | [![BMZ Logo]({{ 'assets/images/founder_BMZ.jpg' | relative_url }})](https://www.bmz.de/en/) | [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.nanologika.de) | [Official Website](https://www.bmz.de/en/) | ## License This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. ",
+    "url": "http://0.0.0.0:4000/docs/",
+    "relUrl": "/"
+  },"4": {
+    "doc": "Installing the training plan",
+    "title": "Installing the training plan",
+    "content": "## Installing the training plan ",
+    "url": "http://0.0.0.0:4000/docs/pages/training-plan/installing/",
+    "relUrl": "/pages/training-plan/installing/"
+  },"5": {
+    "doc": "Modules",
+    "title": "Modules",
+    "content": "# Modules ",
+    "url": "http://0.0.0.0:4000/docs/pages/modules",
+    "relUrl": "/pages/modules"
+  },"6": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "# Resources ",
+    "url": "http://0.0.0.0:4000/docs/pages/resources",
+    "relUrl": "/pages/resources"
+  },"7": {
+    "doc": "Training Plan",
+    "title": "Training Plan",
+    "content": "# Training Plan ",
+    "url": "http://0.0.0.0:4000/docs/pages/training-plan",
+    "relUrl": "/pages/training-plan"
+  }
+}
