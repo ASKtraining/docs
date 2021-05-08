@@ -34,7 +34,7 @@ This guide is divided into four main parts:
 - [Issues](pages/github-issues)
 - [Markdown](pages/github-markdown)
 
-## Partners and Founders
+## Partners and Funder
 
 | r0g Agency | ASKnet | nanoLogika | BMZ |
 | :--------: | :----: | :-------------------------: | :-------: |
